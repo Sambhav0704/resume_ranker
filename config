@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Sambhav0704/resume_ranker./git
+	fetch = +refs/heads/*:refs/remotes/origin/*
